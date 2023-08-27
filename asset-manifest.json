@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4f09258.css",
+    "main.js": "/static/js/main.53a5b778.js",
+    "static/media/Starborn.ttf?display=swap": "/static/media/Starborn.921086e813b46abea23a.ttf",
+    "static/media/Starborn.woff2?display=swap": "/static/media/Starborn.ed0e2193e8d5b3656fc1.woff2",
+    "static/media/Starborn.woff?display=swap": "/static/media/Starborn.905de4c89a44023d4fad.woff",
+    "index.html": "/index.html",
+    "main.e4f09258.css.map": "/static/css/main.e4f09258.css.map",
+    "main.53a5b778.js.map": "/static/js/main.53a5b778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f09258.css",
+    "static/js/main.53a5b778.js"
+  ]
+}
