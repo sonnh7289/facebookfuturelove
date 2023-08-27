@@ -2,9 +2,9 @@
   "files": {
     "main.css": "facebookfuturelove/static/css/main.e4f09258.css",
     "main.js": "facebookfuturelove/static/js/main.53a5b778.js",
-    "facebookfuturelove/static/media/Starborn.ttf?display=swap": "facebookfuturelove/static/media/Starborn.921086e813b46abea23a.ttf",
-    "facebookfuturelove/static/media/Starborn.woff2?display=swap": "facebookfuturelove/static/media/Starborn.ed0e2193e8d5b3656fc1.woff2",
-    "facebookfuturelove/static/media/Starborn.woff?display=swap": "facebookfuturelove/static/media/Starborn.905de4c89a44023d4fad.woff",
+    "/static/media/Starborn.ttf?display=swap": "facebookfuturelove/static/media/Starborn.921086e813b46abea23a.ttf",
+    "/static/media/Starborn.woff2?display=swap": "facebookfuturelove/static/media/Starborn.ed0e2193e8d5b3656fc1.woff2",
+    "/static/media/Starborn.woff?display=swap": "facebookfuturelove/static/media/Starborn.905de4c89a44023d4fad.woff",
     "index.html": "/index.html",
     "main.e4f09258.css.map": "facebookfuturelove/static/css/main.e4f09258.css.map",
     "main.53a5b778.js.map": "facebookfuturelove/static/js/main.53a5b778.js.map"
