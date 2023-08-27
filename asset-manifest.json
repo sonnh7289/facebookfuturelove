@@ -10,7 +10,7 @@
     "main.53a5b778.js.map": "facebookfuturelove/static/js/main.53a5b778.js.map"
   },
   "entrypoints": [
-    "facebookfuturelove/static/css/main.e4f09258.css",
-    "facebookfuturelove/static/js/main.53a5b778.js"
+    "/static/css/main.e4f09258.css",
+    "/static/js/main.53a5b778.js"
   ]
 }
